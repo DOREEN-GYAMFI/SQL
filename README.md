@@ -24,7 +24,7 @@ with any inquiries or opportunities.
 
 | PROJECT REPOSITORY | AREA OF ANALYSIS |PROJECT DESCRIPTION| SQL CLAUSES USED |
 | -------------- | -------------- | -------------- | -------------- |
-| [MySQL_MEGAFIRM EMPLOYEE DATABASE--QUERIES]               |   Employee database analysis|    Querying a single tables on employee and department data, retrieving names, job details, salaries, and hire dates. Demonstrates SQL proficiency in data retrieval and filtering.             | SELECT, FROM, WHERE, ORDER BY, AND, OR, BETWEEN, NOT, LIKE, IN, ASC/DESC               |
+| [MySQL_MEGAFIRM EMPLOYEE DATABASE--QUERIES](https://github.com/DOREEN-GYAMFI/SQL/tree/main/MySQL_MEGAFIRM%20EMPLOYEE%20DATABASE--QUERIES)               |   Employee database analysis|    Querying a single tables on employee and department data, retrieving names, job details, salaries, and hire dates. Demonstrates SQL proficiency in data retrieval and filtering.             | SELECT, FROM, WHERE, ORDER BY, AND, OR, BETWEEN, NOT, LIKE, IN, ASC/DESC               |
 |                |                |                |                |
 |                |                |                |                |
 |                |                |                |                |
