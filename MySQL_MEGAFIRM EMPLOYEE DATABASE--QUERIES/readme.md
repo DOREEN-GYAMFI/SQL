@@ -4,7 +4,7 @@ In this SQL-driven project, I utilized the MegaFirm employees database to showca
 
 **Scenario**
 
-As a data analyst ,I will use the data given to  underrstand employee data, it can be challenging to make informed decisions. That's where SQL comes into play.
+As a data analyst ,I will use the data given to  understand employee data by answering the queries below which can be used for futher analysis with statistical analysis and data visualisations to inform decisions. That's where SQL comes into play.
 
 **The repository contains the database used and the answered queries files**
 
