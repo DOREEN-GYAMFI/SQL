@@ -18,3 +18,8 @@ As a data analyst ,I will use the data given to  underrstand employee data, it c
 
 **Solutions To Queries**
 
+* Display the content of the employees table.
+
+![image](https://github.com/DOREEN-GYAMFI/SQL/assets/124680155/3295391c-fc52-4a13-b7ae-e44520ca1208)
+
+From the output we see that the employee table contains fields such as employee Id,firstname etc
